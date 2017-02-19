@@ -1,0 +1,11 @@
+# Remove useless files
+code/local/__pycache__/*
+code/local/.ipynb_checkpoints/*
+code/.ipynb_checkpoints/*
+code/local/googleAPI
+code/local/key.txt
+code/local/parser.py
+
+# Remove unnecessary data files
+data/tweets_*
+data/processed_tweets*
